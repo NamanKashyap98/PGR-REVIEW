@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="624cc14e47db8310573dde94116d43a7" label="PRODUCT TEST" max_length="40" name="x_1296406_pgr_demo_product_test" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Short Description" max_length="10000" name="short_description" type="string"/>
+        <element label="Name" max_length="1000" name="name" type="string"/>
+    </element>
+</database>
